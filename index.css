@@ -1,0 +1,13 @@
+video {
+	position: absolute;
+	left: 0;
+	top: 0;
+	min-width: 100%;
+	min-height: 100%;
+	z-index: -1000;
+}
+h1 {
+	font-weight: 600;
+	font-size: 100px;
+	color: black;
+}
